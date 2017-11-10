@@ -55,4 +55,17 @@ Ingredients
 PersonalRecipe
 User
 
+=====================STUDY AT HOME=====================
+
+Mediator pattern(For chatting)
+Stored procs and prepared statements, callable, partition
+
+
+
+
+
+
+
+
+
  
